@@ -20,5 +20,9 @@
 ### 🖼️Original BIOS
 ![logo](https://github.com/ByteCorum/BIOS/blob/main/imgs/obios.png?raw=true)
 
+---
 ### 🖼️My BIOS Sandbox
 ![logo](https://github.com/ByteCorum/BIOS/blob/main/imgs/shoot%201.png?raw=true)
+
+---
+The plan is to create a full-functioning tool for people who learn how to use BIOS tools.
