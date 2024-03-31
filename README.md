@@ -26,3 +26,5 @@
 
 ---
 The plan is to create a full-functioning tool for people who learn how to use BIOS tools.
+
+---
